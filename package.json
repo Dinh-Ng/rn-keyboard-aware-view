@@ -2,6 +2,7 @@
     "name": "rn-keyboard-aware-view",
     "version": "1.0.3",
     "description": "A React Native ScrollView component that resizes when the keyboard appears.",
+    "packageManager": "yarn@1.22.22",
     "main": "index.js",
     "types": "index.d.ts",
     "scripts": {
@@ -49,5 +50,8 @@
         "eslint-plugin-react": "^7.14.3",
         "eslint-plugin-react-native": "^3.7.0",
         "flow-bin": "^0.105.2"
+    },
+    "resolutions": {
+        "tmp": "0.2.3"
     }
 }
