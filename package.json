@@ -52,6 +52,7 @@
         "flow-bin": "^0.105.2"
     },
     "resolutions": {
-        "tmp": "0.2.3"
+        "tmp": "0.2.3",
+        "flatted": "3.3.1"
     }
 }

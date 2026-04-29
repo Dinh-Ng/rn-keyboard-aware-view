@@ -7,3 +7,5 @@ iOS
 
 .idea/
 .vscode/
+
+.DS_Store
